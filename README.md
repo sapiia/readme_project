@@ -81,3 +81,8 @@ nav{
 ## Link 
 
 CSS framework [Tailwindcss](https://tailwindcss.com/)
+
+Video framework[Travel](https://youtu.be/tsxfQOcoXLA?si=FuDtI5lhX4dwykRz)
+
+## Image dashboard
+![Dashboard](1_rQ3d_dKG7V2JhX8SrUjs6g.webp)
